@@ -1,0 +1,10 @@
+﻿  vector.cpp
+D:\C++学习\C++\模板分离编译\模板分离编译\vector.h(98,1): error C2662: “size_t cdc::vector<int>::size(void)”: 不能将“this”指针从“const cdc::vector<int>”转换为“cdc::vector<int> &”
+D:\C++学习\C++\模板分离编译\模板分离编译\vector.h(98,4): message : 转换丢失限定符
+D:\C++学习\C++\模板分离编译\模板分离编译\vector.h(61,10): message : 参见“cdc::vector<int>::size”的声明
+D:\C++学习\C++\模板分离编译\模板分离编译\vector.h(97): message : 在编译 类 模板 成员函数“const T &cdc::vector<T>::operator [](size_t) const”时
+          with
+          [
+              T=int
+          ]
+D:\C++学习\C++\模板分离编译\模板分离编译\vector.cpp(57): message : 查看对正在编译的 类 模板 实例化“cdc::vector<int>”的引用
