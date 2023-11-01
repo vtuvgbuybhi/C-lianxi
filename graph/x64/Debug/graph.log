@@ -1,0 +1,95 @@
+﻿  Test.cpp
+D:\C++学习\C++\graph\graph\Graph.h(447,1): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(419): message : 在编译 类 模板 成员函数“bool matrix::graph<char,int,2147483647,true>::BellmanFord(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”时
+          with
+          [
+              V=char
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(690): message : 查看对正在编译的函数 模板 实例化“bool matrix::graph<char,int,2147483647,true>::BellmanFord(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”的引用
+          with
+          [
+              V=char
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(631): message : 查看对正在编译的 类 模板 实例化“matrix::graph<char,int,2147483647,true>”的引用
+D:\C++学习\C++\graph\graph\Graph.h(401,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(388): message : 在编译 类 模板 成员函数“void matrix::graph<char,int,2147483647,true>::PrintShortPath(const V &,const std::vector<int,std::allocator<int>> &,const std::vector<int,std::allocator<int>> &)”时
+          with
+          [
+              V=char
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(646): message : 查看对正在编译的函数 模板 实例化“void matrix::graph<char,int,2147483647,true>::PrintShortPath(const V &,const std::vector<int,std::allocator<int>> &,const std::vector<int,std::allocator<int>> &)”的引用
+          with
+          [
+              V=char
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(404,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(354,1): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(347): message : 在编译 类 模板 成员函数“void matrix::graph<char,int,2147483647,true>::Dijkstra(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”时
+          with
+          [
+              V=char
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(645): message : 查看对正在编译的函数 模板 实例化“void matrix::graph<char,int,2147483647,true>::Dijkstra(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”的引用
+          with
+          [
+              V=char
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(367,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++学习\C++\graph\graph\Graph.h(30,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++学习\C++\graph\graph\Graph.h(24): message : 在编译 类 模板 成员函数“matrix::graph<char,int,2147483647,true>::graph(const V *,size_t)”时
+          with
+          [
+              V=char
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(631): message : 查看对正在编译的函数 模板 实例化“matrix::graph<char,int,2147483647,true>::graph(const V *,size_t)”的引用
+          with
+          [
+              V=char
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(236,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++学习\C++\graph\graph\Graph.h(202): message : 在编译 类 模板 成员函数“W matrix::graph<char,W,2147483647,false>::kruskal(matrix::graph<char,W,2147483647,false> &)”时
+          with
+          [
+              W=int
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(594): message : 查看对正在编译的函数 模板 实例化“W matrix::graph<char,W,2147483647,false>::kruskal(matrix::graph<char,W,2147483647,false> &)”的引用
+          with
+          [
+              W=int
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(577): message : 查看对正在编译的 类 模板 实例化“matrix::graph<char,int,2147483647,false>”的引用
+D:\C++学习\C++\graph\graph\Graph.h(241,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++学习\C++\graph\graph\Graph.h(84,12): warning C4477: “printf”: 格式字符串“%4d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C++学习\C++\graph\graph\Graph.h(84,12): message : 请考虑在格式字符串中使用“%zd”
+D:\C++学习\C++\graph\graph\Graph.h(71): message : 在编译 类 模板 成员函数“void matrix::graph<char,int,2147483647,false>::Print(void)”时
+D:\C++学习\C++\graph\graph\Graph.h(595): message : 查看对正在编译的函数 模板 实例化“void matrix::graph<char,int,2147483647,false>::Print(void)”的引用
+D:\C++学习\C++\graph\graph\Graph.h(119,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++学习\C++\graph\graph\Graph.h(112): message : 在编译 类 模板 成员函数“void matrix::graph<std::string,int,2147483647,false>::BFS(const V &)”时
+          with
+          [
+              V=std::string
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(570): message : 查看对正在编译的函数 模板 实例化“void matrix::graph<std::string,int,2147483647,false>::BFS(const V &)”的引用
+          with
+          [
+              V=std::string
+          ]
+D:\C++学习\C++\graph\graph\Graph.h(563): message : 查看对正在编译的 类 模板 实例化“matrix::graph<std::string,int,2147483647,false>”的引用
+D:\C++学习\C++\graph\graph\Graph.h(135,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  graph.vcxproj -> D:\C++学习\C++\graph\x64\Debug\graph.exe
